@@ -40,5 +40,5 @@
 
 <br>
 <div>
-  ![Snake animation](https://github.com/LuizCowBTF/LuizCowBTF/blob/output/githubcontribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LuizCowBTF/blob/output/githubcontribution-grid-snake.svg)
 </div>
