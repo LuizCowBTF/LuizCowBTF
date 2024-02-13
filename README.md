@@ -1,6 +1,6 @@
 # Olá! Eu sou o Luiz Claudio!
 ### Prazer em recebê-lo.
-#### - 🔭 Sou Desenvolvedor de Sistemas com foco em Front End.
+#### - 🔭 Formado em Análise e Desenvolvimento de Sistemas com foco em Front End.
 #### - 🌱 Estou sempre estudando para me atualizar e atender ao mercado.
 #### - 👯 Hoje estudo: <br> HTML5, CSS3, JavaScript, TypeScript, Angular, NodeJS, C#, SQLServer, MongoDB, Azure DevOps, SCRUM, KANBAN, Docker
 #### - 📫 Você me acha em: luizcowbtf@gmail.com
