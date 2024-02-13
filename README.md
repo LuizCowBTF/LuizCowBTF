@@ -2,7 +2,7 @@
 ### Prazer em recebê-lo.
 #### - 🔭 Formado em Análise e Desenvolvimento de Sistemas com foco em Front End.
 #### - 🌱 Estou sempre estudando para me atualizar e atender ao mercado.
-#### - 👯 Hoje estudo: HTML5, CSS3, JavaScript, TypeScript, Angular, NodeJS, C#, SQLServer, MongoDB, Azure DevOps, SCRUM, KANBAN, Docker
+#### - 👯 Hoje estudo: HTML5, CSS3, JavaScript, TypeScript, Angular, NodeJS, C#, SQLServer, MongoDB, Azure DevOps, Docker
 #### - 📫 Você me acha em: luizcowbtf@gmail.com
 #### - ⚡ Meus Hobbies são: 
 |               |               |
